@@ -18,3 +18,9 @@
 ## 结论
 
 ## 参考文献
+
+1. Wu M, Sippe J, Sivakumar D, et al. How the Great Firewall of China detects and blocks fully encrypted traffic[C]//32nd USENIX Security Symposium (USENIX Security 23). 2023: 2653-2670.
+2. Xue D, Kallitsis M, Houmansadr A, et al. Fingerprinting Obfuscated Proxy Traffic with Encapsulated {TLS} Handshakes[C]//33rd USENIX Security Symposium (USENIX Security 24). 2024: 2689-2706.
+3. Hoang N P, Dalek J, Crete-Nishihata M, et al. {GFWeb}: Measuring the Great Firewall's Web Censorship at Scale[C]//33rd USENIX Security Symposium (USENIX Security 24). 2024: 2617-2633.
+4. Wedwards E. Bleeding Wall: A Hematologic Examination on the Great Firewall[J]. Free and Open Communications on the Internet, 2024.
+5. Alice, Bob, Carol, et al. How china detects and blocks shadowsocks[C]//Proceedings of the ACM Internet Measurement Conference. 2020: 111-124.
